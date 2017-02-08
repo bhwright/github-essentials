@@ -1,0 +1,1 @@
+this is file3.  It was added in the branch and file2 was deleted.
